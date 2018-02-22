@@ -8,3 +8,7 @@ Clone the git repo & run `npm install` in the directory
 
 ## Starting & running the service
 You can use a tool like `forever` to start the service in the background. Alternatively you can simply start it with `node index.js`.
+
+## Postman example screenshot
+
+![alt text](https://github.com/joduplessis/SVGtoPDF/raw/master/postman.png "Postman example")

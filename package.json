@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express": "^4.16.2",
+    "formidable": "^1.1.1",
+    "http": "^0.0.0",
+    "https": "^1.0.0",
+    "mustache-express": "^1.2.5",
+    "pdfkit": "^0.8.3",
+    "svg-to-pdfkit": "^0.1.6",
+    "util": "^0.10.3"
+  }
+}
